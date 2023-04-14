@@ -1,6 +1,6 @@
 # helloworld
 
-<img src="svg/learnsomesoftwareinfrathismonth.jpg">
+<img src="svg/learnsomesoftwareinfrathismonth.png">
 
 - Subscribe: [NewsLetter / Learn Some Software Infrastructure This Month](https://www.learnsomesoftwareinfrastructurethismonth.com/)
 - Linkedin: [link](https://www.linkedin.com/company/cloud-native-serverless-meetup/)
