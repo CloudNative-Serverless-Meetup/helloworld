@@ -1,5 +1,6 @@
 # helloworld
-- Subscribe: [NewsLetter / Learn Some Software Infrastructure This Month](https://www.learnsomesoftwareinfrastructurethismonth.com/)
+
+<img src="svg/icons8-subscribe.gif" width="40" height="40" /> [NewsLetter / Learn Some Software Infrastructure This Month](https://www.learnsomesoftwareinfrastructurethismonth.com/)
 
 <a href="https://www.linkedin.com/company/cloud-native-serverless-meetup/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="40" height="40"></a>
 <a href="https://www.linkedin.com/groups/9353313/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="40" height="40"></a> (LinkedIn Group)
